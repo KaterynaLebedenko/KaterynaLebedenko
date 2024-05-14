@@ -71,7 +71,7 @@
 
 ###
 
-<h2 align="left">Check out my profile on Codewars &#🥷;</h2>
+<h2 align="left">Check out my profile on Codewars 🐱‍👓</h2>
 
 ###
 
