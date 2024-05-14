@@ -71,13 +71,15 @@
 
 ###
 
-<h2 align="left">Check out my profile on Codewars <a href="/hacker-cat/">🐱‍💻&nbsp;Hacker Cat</a></h2>
+<h2 align="left">Check out my profile on Codewars <a href="/hacker-cat/">🐱‍💻&nbsp;</a></h2>
 
 ###
 
 <div align="center">
 
+  <a href="https://www.codewars.com/users/Kateryna_Lebedenko" target="_blank">
   <img src="https://www.codewars.com/users/Kateryna_Lebedenko/badges/large"  />
+  </a>
 </div>
 
 
