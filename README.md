@@ -71,8 +71,7 @@
 
 ###
 
-<h2 align="left">Check out my profile on Codewars ![image](https://github.com/KaterynaLebedenko/KaterynaLebedenko/assets/60528022/e9ef6427-d797-48d8-b1c7-e8a3132a4aa6)
-</h2>
+<h2 align="left">Check out my profile on Codewars &#🥷;</h2>
 
 ###
 
