@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Kateryna and I'm a junior data analyst, from Szczecin, Poland</h2>
 
 ###
@@ -47,25 +48,25 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kateryna-lebedenko-aa759b220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Kateryna_Ihoriv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/lebedenko_kateryna_ihorivna?igsh=bHBtdWtvM29wZ3Jp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/lebedenkokaterynaihorivna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" height="40" alt="facebook logo"  />
   </a>
   <a href="mailto:lebedenkokateryna@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail" height="40" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Lebedenko_Kateryna_Ihorivna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram" height="40" alt="telegram logo"  />
   </a>
   <a href="https://onldtlw21.slack.com/team/U06UGJUCJBV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=%23CCCCFF" height="40" alt="slack logo"  />
   </a>
 </div>
 
