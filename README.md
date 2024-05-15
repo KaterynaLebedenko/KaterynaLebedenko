@@ -65,9 +65,6 @@
   <a href="https://t.me/Lebedenko_Kateryna_Ihorivna" target="_blank">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://onldtlw21.slack.com/team/U06UGJUCJBV" target="_blank">
-    <img src="https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=%23CCCCFF" height="40" alt="slack logo"  />
-  </a>
 </div>
 
 ###
