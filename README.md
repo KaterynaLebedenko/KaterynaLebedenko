@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Kateryna and I'm a junior data analyst, from Szczecin, Poland</h2>
+<h2 align="left">Hi 👋! My name is Kateryna and I love Python, SQL and working with data. I’m located in Szczecin, Poland.</h2>
 
 ###
 
